@@ -1,1 +1,1 @@
-[a relative link](page.md)
+[a relative link](path/index.md)
