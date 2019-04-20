@@ -1,1 +1,1 @@
-[a relative link](path/index.md)
+[a relative link](code/nwd.md)
