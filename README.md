@@ -1,1 +1,1 @@
-ww
+[a relative link](page.md)
