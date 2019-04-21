@@ -18,7 +18,7 @@ NWD dwóch liczb możemy policzyć na dwa sposoby:
 	return(a);
 }
 ```
- ### metodą modulo 
+# w
  
 
 ```c++
