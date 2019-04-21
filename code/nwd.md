@@ -3,7 +3,6 @@
 
 W tym temacie nie ma większej filozofii gdyż NWD rzadko pojawia się na maturze ale i tak warto znać to zagadnienie.
 NWD dwóch liczb możemy policzyć na dwa sposoby:
-
 - metodą odejmowania
 
 ```c++
@@ -51,7 +50,6 @@ znając NWD mozemy bardzo łatwo policzyć NWW
 ```
 
 Przydatne źródła:
-
  - [NWD](https://pl.wikipedia.org/wiki/Algorytm_Euklidesa)
  - [NWW](https://pl.wikipedia.org/wiki/Najmniejsza_wsp%C3%B3lna_wielokrotno%C5%9B%C4%87)
  
