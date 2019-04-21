@@ -19,7 +19,7 @@ NWD dwóch liczb możemy policzyć na dwa sposoby:
 }
 ```
  ### metodą modulo 
- która jest szybsza lecz na maturze nie liczy się szybkość
+ 
 
 ```c++
   int NWD(int a, int b) 
