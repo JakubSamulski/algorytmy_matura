@@ -6,12 +6,14 @@ Np. :
 ``` c++
    bool czy_pierwsza(int n)
   {
-    if (n < 2)		// wiemy że 1 i 2 nie są pierwsze więc możemy je wykluczyć
+  // jako że 1 i 2 nie są pierwsze możemy je wykluczyć
+    if (n < 2)		
       return false; 
 
     // sprawdzamy czy liczba ma jakiś dzielnik poza nią samą i 1
-
-    for (int i = 2; i*i <= n; i++) //n*n ponieważ nie musimy sprawdzać wszystkich liczb
+    // wystarczy że sprawdzimy do pierwiastka z n
+    // albo i^2
+    for (int i = 2; i*i <= n; i++) 
       if (n%i == 0)
         return false;
 
