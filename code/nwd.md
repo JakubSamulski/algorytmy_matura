@@ -3,7 +3,7 @@
 
 W tym temacie nie ma większej filozofii gdyż NWD rzadko pojawia się na maturze ale i tak warto znać to zagadnienie.
 NWD dwóch liczb możemy policzyć na dwa sposoby:
-- metodą odejmowania
+### metodą odejmowania
 
 ```c++
   int NWD(int a, int b)
@@ -18,7 +18,8 @@ NWD dwóch liczb możemy policzyć na dwa sposoby:
 	return(a);
 }
 ```
-- metodą modulo która jest szybsza lecz na maturze nie liczy się szybkość
+ ### metodą modulo 
+ która jest szybsza lecz na maturze nie liczy się szybkość
 
 ```c++
   int NWD(int a, int b) 
