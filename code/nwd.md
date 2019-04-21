@@ -39,7 +39,7 @@ NWD dwóch liczb możemy policzyć na dwa sposoby:
 NWD kilku liczb np trzech możemy policzyc poprzez :
 
 ```c++
-  NWD(liczba1 , liczba2);
+  NWD(liczba1 ,NWD(liczba2, liczba3);
 ```
 
 znając NWD mozemy bardzo łatwo policzyć NWW
