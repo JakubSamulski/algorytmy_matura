@@ -19,6 +19,7 @@ NWD dwóch liczb możemy policzyć na dwa sposoby:
 }
 ```
 ### metodą modulo
+która jest szybsza
  
 
 ```c++
