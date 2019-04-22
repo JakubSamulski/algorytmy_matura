@@ -23,4 +23,4 @@ Np. :
 ```
 #### przydatne źródła :
 [Jak rozpoznać czy liczba naturalna jest pierwsza?](http://www.math.edu.pl/czy-pierwsza)
-#### [powrót spisu treści](/README.md)
+### [powrót ](/README.md)
