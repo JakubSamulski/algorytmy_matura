@@ -1,6 +1,6 @@
 # Zamiana z systemu dziesiętnego na dowolny
 Jest to ważne zagadnienie które czasem pojawia się na maturze lecz częsciej w odwrotnej wersji 
-### zanim zaczniemy
+## zanim zaczniemy
 warto przygotować sobie funkcję do zamiany int'a na char'a chociaż nie jest to konieczne to poprawia czytelność kodu
 ``` c++
   char intNaChar(int a)
