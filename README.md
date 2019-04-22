@@ -1,9 +1,9 @@
 + Wstęp
-    - [O mnie](/code/oMnie.md)
-    - [Maturalne lifehacki](/code/lifehack.md)
+    - [O mnie](/code/Wstep/oMnie.md)
+    - [Maturalne lifehacki](/code/Wstep/lifehack.md)
 + Algorytmy na liczbach całkowitych
-    - [NWD i NWW](/code/nwd.md)
-    - [Czy liczba pierwsza](/code/czyPierwsza.md)
-    - [Wyłącznie czynnika przed znak pierwiastka](/code/pierwiastek.md)
-    - [Zamiana z systemu dziesietnego na dowolny](/code/naDowolny.md)
-    - [Zamiana z dowolnego systemu na dziesietny](/code/naDziesietny.md)
+    - [NWD i NWW](/code/algorytmyNaLiczbachCalkowitych/nwd.md)
+    - [Czy liczba pierwsza](/code/algorytmyNaLiczbachCalkowitych/czyPierwsza.md)
+    - [Wyłącznie czynnika przed znak pierwiastka](/code/algorytmyNaLiczbachCalkowitych/pierwiastek.md)
+    - [Zamiana z systemu dziesietnego na dowolny](/code/algorytmyNaLiczbachCalkowitych/naDowolny.md)
+    - [Zamiana z dowolnego systemu na dziesietny](/code/algorytmyNaLiczbachCalkowitych/naDziesietny.md)
