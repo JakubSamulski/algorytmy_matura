@@ -38,7 +38,7 @@ aby dodać element na koniec vectora używamy
     cout<<v[i]<<endl;
    }
   ```
-  ### przydatne linki
-    - [Vectory](http://www.cplusplus.com/reference/vector/vector/)
+  ###  przydatne linki
+     [www](http://www.cplusplus.com/reference/vector/vector/)
 
-  ### [powrót ](https://dogexd.github.io/algorytmy_matura/)
+  ###  [powrót ](https://dogexd.github.io/algorytmy_matura/)
