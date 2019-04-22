@@ -23,4 +23,4 @@ Np. :
 ```
 ### przydatny link :
 [Jak rozpoznać czy liczba naturalna jest pierwsza?](http://www.math.edu.pl/czy-pierwsza)
-### [powrót ](/README.md)
+### [powrót ](https://dogexd.github.io/algorytmy_matura/)
