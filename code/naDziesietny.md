@@ -2,7 +2,7 @@
 Ten temat bardzo lubi pojawiać się na maturze
 
 ## schemat działania
-  ![](http://cdncontribute.geeksforgeeks.org/wp-content/uploads/hexaTodeci.png"schemat")
+  ![](http://cdncontribute.geeksforgeeks.org/wp-content/uploads/hexaTodeci.png)
   
   
 ### Na początek 
