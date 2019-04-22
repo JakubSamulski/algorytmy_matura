@@ -1,3 +1,5 @@
++ Wstęp
+    - [O mnie](/code/oMnie.md)
 + Algorytmy na liczbach całkowitych
     - [NWD i NWW](/code/nwd.md)
     - [Czy liczba pierwsza](/code/czyPierwsza.md)
