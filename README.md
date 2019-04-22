@@ -1,6 +1,6 @@
 + Wstęp
     - [O mnie](/code/Wstep/oMnie.md)
-    - [Maturalne lifehacki](/code/Wstep/lifehack.md)
+    - [Maturalne lifehacki](/code/Wstep/lifehacki.md)
 + Algorytmy na liczbach całkowitych
     - [NWD i NWW](/code/algorytmyNaLiczbachCalkowitych/nwd.md)
     - [Czy liczba pierwsza](/code/algorytmyNaLiczbachCalkowitych/czyPierwsza.md)
