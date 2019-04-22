@@ -55,5 +55,5 @@ znając NWD mozemy bardzo łatwo policzyć NWW
 ### Przydatne źródła:
  - [NWD](https://pl.wikipedia.org/wiki/Algorytm_Euklidesa)
  - [NWW](https://pl.wikipedia.org/wiki/Najmniejsza_wsp%C3%B3lna_wielokrotno%C5%9B%C4%87)
-### [powrót ](/README.md)
+### [powrót ](https://dogexd.github.io/algorytmy_matura/)
 
