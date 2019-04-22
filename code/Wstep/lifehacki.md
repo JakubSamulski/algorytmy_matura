@@ -38,5 +38,4 @@ aby dodać element na koniec vectora używamy
     cout<<v[i]<<endl;
    }
   ```  
-  ww
-  #### Przydatne linki
+  
