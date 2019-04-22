@@ -39,5 +39,6 @@ uwaga ponizszy kod nie zadziała w visual studio gdyż nie można tam zrobić cz
 }
 ```
 
-## Przydatny link
+### Przydatny link
 [hex to dec](https://www.geeksforgeeks.org/program-hexadecimal-decimal/)
+### [powrót ](/README.md)
