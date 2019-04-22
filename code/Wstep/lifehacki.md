@@ -39,6 +39,5 @@ aby dodać element na koniec vectora używamy
    }
   ```
   ###  przydatne linki
-     [www](http://www.cplusplus.com/reference/vector/vector/)
-
+   - [NWD](http://www.cplusplus.com/reference/vector/vector/)
   ###  [powrót ](https://dogexd.github.io/algorytmy_matura/)
