@@ -48,4 +48,4 @@ Jest to dość fajne zagadnienie bo znając ten algorytm praktycznie znasz algor
   }
   ```
  
-### [powrót ](/README.md)
+### [powrót ](https://dogexd.github.io/algorytmy_matura/)
