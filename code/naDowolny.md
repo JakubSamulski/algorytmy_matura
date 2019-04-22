@@ -1,6 +1,9 @@
 # Zamiana z systemu dziesiętnego na dowolny
-Jest to ważne zagadnienie które czasem pojawia się na maturze lecz częsciej w odwrotnej wersji 
-## zanim zaczniemy
+Jest to ważne zagadnienie które czasem pojawia się na maturze lecz częsciej w odwrotnej wersji
+## schemat
+![](http://contribute.geeksforgeeks.org/wp-content/uploads/decToHexaDeci.png)
+
+### zanim zaczniemy
 warto przygotować sobie funkcję do zamiany int'a na char'a chociaż nie jest to konieczne to poprawia czytelność kodu
 ``` c++
   char intNaChar(int a)
@@ -36,4 +39,5 @@ Teraz możemy przystąpić do zamiany
     cout << naDowolny(255, 16); // wyświetli ff
   }
 ```
-
+### przydatny link 
+[decimal to hex](https://www.geeksforgeeks.org/program-decimal-hexadecimal-conversion/)
