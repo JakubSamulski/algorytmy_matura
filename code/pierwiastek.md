@@ -48,3 +48,4 @@ Jest to dość fajne zagadnienie bo znając ten algorytm praktycznie znasz algor
   }
   ```
  
+### [powrót ](/README.md)
