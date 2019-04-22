@@ -42,4 +42,4 @@ Teraz możemy przystąpić do zamiany
 ### przydatny link 
 [decimal to hex](https://www.geeksforgeeks.org/program-decimal-hexadecimal-conversion/)
 
-## [powrót spisu treści](/README.md)
+### [powrót](/README.md)
