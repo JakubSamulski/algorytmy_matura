@@ -42,3 +42,4 @@ aby dodać element na koniec vectora używamy
     - [Vectory](http://www.cplusplus.com/reference/vector/vector/)
 
   ### [powrót ](https://dogexd.github.io/algorytmy_matura/)
+  www
