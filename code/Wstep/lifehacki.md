@@ -46,9 +46,5 @@ aby dodać element na koniec vectora używamy
 ### Przydatny link
   - [Vectory](http://www.cplusplus.com/reference/vector/vector/)
 
-<<<<<<< HEAD
-  ### [powrót ](https://dogexd.github.io/algorytmy_matura/)
-  www
-=======
+
 ### [Powrót](https://dogexd.github.io/algorytmy_matura/)
->>>>>>> d22158119afce5b14dcd42545f0e5c0e6b1b8a89
