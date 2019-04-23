@@ -12,6 +12,10 @@ czyli np:
 dzięki temu nie muszisz sam pisać implementacji bubble sorta , a jeszcze
 nie daj boże się pomylisz i stracisz cenny czas
 
+## Optymalizacja
+Warto pamiętać że na maturze nie jest oceniana optymalizacja programów ani ich złożoność obliczeniowa , program ma działać
+więc nie muszisz myśleć nad najoptymalniejszym algorytmem , nawet sortowanie bąbelkowe przejdzie bez problemów.
+
 ## Vectory zamiast tablic
 Na maturze czasami nie podają ile jest liczb , ciągoów w pliku tekstowym
 a nie znając ilości elementów ciężko używać tablic.  
