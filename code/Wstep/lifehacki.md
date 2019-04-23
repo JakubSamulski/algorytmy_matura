@@ -40,3 +40,6 @@ aby dodać element na koniec vectora używamy
   ```  
   
 ### Przydatny link
+  - [Vectory](http://www.cplusplus.com/reference/vector/vector/)
+
+## [Powrót](https://dogexd.github.io/algorytmy_matura/)
