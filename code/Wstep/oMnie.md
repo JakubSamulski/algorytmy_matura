@@ -13,5 +13,5 @@ Najlepiej na facebook'u bo pewnie stąd się dowiedziałeś o tej stronie albo n
 
 ![](https://github.com/DogeXD/algorytmy_matura/blob/master/images/decToHex.png)
 
-w
+wwee
 ### [powrót ](https://dogexd.github.io/algorytmy_matura/)
