@@ -10,3 +10,18 @@
     - [Zamiana z systemu dziesietnego na dowolny](/code/algorytmyNaLiczbachCalkowitych/naDowolny.md)
     - [Zamiana z dowolnego systemu na dziesietny](/code/algorytmyNaLiczbachCalkowitych/naDziesietny.md)
     - [Sortowanie](/code/algorytmyNaLiczbachCalkowitych/sortowanie.md)
+    - [Wyszukiwanie danej liczby w zbiorze ](/code/algorytmyNaLiczbachCalkowitych/wyszukiwanie.md)
+    - wyszukiwanie minimalnej i maksymalnej wartości
++ Algorytmy Numeryczne
+    - obliczanie wartości wielomianu
+    - Obliczanie wartości pierwiastka kwad ratowego
+    - Szukanie miejsca zerowego
+    - Twierdzenie Pitagorasa
+    - warunek trójkąta
+    - odległość euklidesowa
++ Algorytmy na tekstach
+    - Palindorm
+    - Anagram
+    - Wyszukiwanie wzorca w tekście
+    - szyfr cezara
+  
