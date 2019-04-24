@@ -1,7 +1,8 @@
 # Zamiana z systemu dziesiętnego na dowolny
 Jest to ważne zagadnienie które czasem pojawia się na maturze lecz częsciej w odwrotnej wersji
 ## schemat
-![](http://contribute.geeksforgeeks.org/wp-content/uploads/decToHexaDeci.png)
+![](https://raw.githubusercontent.com/DogeXD/algorytmy_matura/master/images/decToHex.png)
+vb
 
 ### zanim zaczniemy
 warto przygotować sobie funkcję do zamiany int'a na char'a chociaż nie jest to konieczne to poprawia czytelność kodu
@@ -22,9 +23,9 @@ Teraz możemy przystąpić do zamiany
     {
       int temp; // zmienna pomocnicza do trzymania reszty
       temp = liczba % system;
-      a += intNaChar(temp); 
+      a += intNaChar(temp);
       liczba /= system;
-    }	
+    }
     // odwracanie stringa
     for (int i = a.size() - 1; i >= 0; i--)
       b += a[i];
@@ -39,7 +40,7 @@ Teraz możemy przystąpić do zamiany
     cout << naDowolny(255, 16); // wyświetli ff
   }
 ```
-### przydatny link 
+### przydatny link
 [decimal to hex](https://www.geeksforgeeks.org/program-decimal-hexadecimal-conversion/)
 
 ### [powrót](https://dogexd.github.io/algorytmy_matura/)
