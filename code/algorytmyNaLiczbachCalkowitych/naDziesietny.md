@@ -4,6 +4,8 @@ Ten temat bardzo lubi pojawiać się na maturze
 ## schemat działania
   ![](https://raw.githubusercontent.com/DogeXD/algorytmy_matura/master/images/hexToDec.png)
 
+Zamiana na system dwójkowy czy ósemkowy działa tak samo tylko zamiast * 16 mnożymy razy 2 lub 8
+
 
 ### Na początek
 Przygotujmy sobie funkcjię do zamiany char'a na int'a

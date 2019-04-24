@@ -9,3 +9,4 @@
     - [Wyłącznie czynnika przed znak pierwiastka](/code/algorytmyNaLiczbachCalkowitych/pierwiastek.md)
     - [Zamiana z systemu dziesietnego na dowolny](/code/algorytmyNaLiczbachCalkowitych/naDowolny.md)
     - [Zamiana z dowolnego systemu na dziesietny](/code/algorytmyNaLiczbachCalkowitych/naDziesietny.md)
+    - [Sortowanie](/code/algorytmyNaLiczbachCalkowitych/sortowanie.md)

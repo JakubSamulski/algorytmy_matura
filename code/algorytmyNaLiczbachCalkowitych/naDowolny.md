@@ -1,8 +1,10 @@
 # Zamiana z systemu dziesiętnego na dowolny
 Jest to ważne zagadnienie które czasem pojawia się na maturze lecz częsciej w odwrotnej wersji
 ## schemat
-![](https://raw.githubusercontent.com/DogeXD/algorytmy_matura/master/images/decToHex.png)
-Zamiana na system dwójkowy czy ósemkowy działa tak samo tylko zamiast % 16 dzielimy przez 2 lub 8 
+![](https://raw.githubusercontent.com/DogeXD/algorytmy_matura/master/images/decToHex.png)  
+
+
+Zamiana na system dwójkowy czy ósemkowy działa tak samo tylko zamiast % 16 dzielimy przez 2 lub 8
 
 ### zanim zaczniemy
 warto przygotować sobie funkcję do zamiany int'a na char'a chociaż nie jest to konieczne to poprawia czytelność kodu
