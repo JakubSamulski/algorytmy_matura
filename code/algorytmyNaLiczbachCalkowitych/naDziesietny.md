@@ -2,10 +2,10 @@
 Ten temat bardzo lubi pojawiać się na maturze
 
 ## schemat działania
-  ![](http://cdncontribute.geeksforgeeks.org/wp-content/uploads/hexaTodeci.png)
-  
-  
-### Na początek 
+  ![](https://raw.githubusercontent.com/DogeXD/algorytmy_matura/master/images/hexToDec.png)
+
+
+### Na początek
 Przygotujmy sobie funkcjię do zamiany char'a na int'a
 ``` c++
 int charNaInt(char a)
@@ -17,17 +17,17 @@ int charNaInt(char a)
 ```
 uwaga ponizszy kod nie zadziała w visual studio gdyż nie można tam zrobić czegoś takiego
 ``` c++
-	int t[dlugosc]; 
+	int t[dlugosc];
   ```
-  w tym przypadku najelpiej zamienić tablice na vectora 
-  
+  w tym przypadku najelpiej zamienić tablice na vectora
+
   ``` c++
   int toDecimal(string ciag, int zSystemu)
 {
-	//zamieniamy stringa na tablicę 
-	// łatwiej się pracuje 
+	//zamieniamy stringa na tablicę
+	// łatwiej się pracuje
 	int dlugosc = ciag.size();
-	int t[dlugosc]; 
+	int t[dlugosc];
 	for (int i = 0; i < dlugosc; i++)
 		t[i] = charNaInt(ciag[i]);
 
