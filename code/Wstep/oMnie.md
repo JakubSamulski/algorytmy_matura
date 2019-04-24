@@ -11,7 +11,6 @@ Jeśli widzisz jakiś błąd czy to ortograficzny czy to składniowy czy może b
 Napisz do mnie
 Najlepiej na facebook'u bo pewnie stąd się dowiedziałeś o tej stronie albo napisz na jakubas2014@gmail.com
 
-![](https://github.com/DogeXD/algorytmy_matura/blob/master/images/decToHex.png)
-
-wwee
+![](https://raw.githubusercontent.com/DogeXD/algorytmy_matura/master/images/decToHex.png)
+vb
 ### [powrót ](https://dogexd.github.io/algorytmy_matura/)
