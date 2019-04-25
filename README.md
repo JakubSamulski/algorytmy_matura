@@ -11,10 +11,10 @@
     - [Zamiana z dowolnego systemu na dziesietny](/code/algorytmyNaLiczbachCalkowitych/naDziesietny.md)
     - [Sortowanie](/code/algorytmyNaLiczbachCalkowitych/sortowanie.md)
     - [Wyszukiwanie danej liczby w zbiorze ](/code/algorytmyNaLiczbachCalkowitych/wyszukiwanie.md)
-    - wyszukiwanie minimalnej i maksymalnej wartości
+    - [Wyszukiwanie minimalnej i maksymalnej wartości](/code/algorytmyNaLiczbachCalkowitych/minMax.md)
 + Algorytmy Numeryczne
     - obliczanie wartości wielomianu
-    - Obliczanie wartości pierwiastka kwad ratowego
+    - Obliczanie wartości pierwiastka
     - Szukanie miejsca zerowego
     - Twierdzenie Pitagorasa
     - warunek trójkąta
@@ -24,4 +24,3 @@
     - Anagram
     - Wyszukiwanie wzorca w tekście
     - szyfr cezara
-  

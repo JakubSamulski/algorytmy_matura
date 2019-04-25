@@ -48,5 +48,8 @@ int  main()
 ```
 
 ### Przydatne linki
-[Przykładowe algorytmy sortowania](https://pl.wikipedia.org/wiki/Sortowanie#Przyk%C5%82adowe_algorytmy_sortowania)
-[Funkcja sort w C++](http://www.cplusplus.com/articles/NhA0RXSz/)
+  - [Przykładowe algorytmy sortowania](https://pl.wikipedia.org/wiki/Sortowanie#Przyk%C5%82adowe_algorytmy_sortowania)  
+  - [Funkcja sort w C++](http://www.cplusplus.com/articles/NhA0RXSz/)  
+  - [Film porównujący szybkość](https://www.youtube.com/watch?v=kPRA0W1kECg)
+
+### [Powrót](https://dogexd.github.io/algorytmy_matura/)
