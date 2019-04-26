@@ -13,9 +13,9 @@
     - [Wyszukiwanie danej liczby w zbiorze ](/code/algorytmyNaLiczbachCalkowitych/wyszukiwanie.md)
     - [Wyszukiwanie minimalnej i maksymalnej wartości](/code/algorytmyNaLiczbachCalkowitych/minMax.md)
 + Algorytmy Numeryczne
-    - obliczanie wartości wielomianu
-    - Obliczanie wartości pierwiastka
-    - Szukanie miejsca zerowego
+    - [Obliczanie wartości wielomianu](/code/algorytmyNumeryczne/wartoscWielomianu.md)
+    - [Obliczanie wartości pierwiastka](/code/algorytmyNumeryczne/pierwiastek.md)
+    - [Szukanie miejsca zerowego](/code/algorytmyNumeryczne/miejsceZerowe.md)
     - Twierdzenie Pitagorasa
     - warunek trójkąta
     - odległość euklidesowa
