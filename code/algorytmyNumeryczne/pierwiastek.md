@@ -7,13 +7,13 @@ Oczywiście na maturze możesz użyć gotowej funkcji
 ``` c++
   sqrt()
 ```
-ale kto by nie chciał doświadczyć kwadracenia
+ale kto by nie chciał doświadczyć kwadracenia.
 
 ### Metoda Newton'a Raphson'a
 (Profesjonalna nazwa na kwadracenie)
 
 
-Najpierw napiszmy sobie funkcję do wartości bezwzględnej
+Najpierw napiszemy sobie funkcję do wartości bezwzględnej
 
 ```c++
 double bezwzgledna(double a)

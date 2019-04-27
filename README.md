@@ -15,7 +15,6 @@
 + Algorytmy Numeryczne
     - [Obliczanie wartości wielomianu](/code/algorytmyNumeryczne/wartoscWielomianu.md)
     - [Obliczanie wartości pierwiastka](/code/algorytmyNumeryczne/pierwiastek.md)
-    - [Szukanie miejsca zerowego](/code/algorytmyNumeryczne/miejsceZerowe.md)
     - [Twierdzenie Pitagorasa](/code/algorytmyNumeryczne/pitagoras.md)
     - [Warunek trójkąta](/code/algorytmyNumeryczne/warunekTroj.md)
     - [odległość euklidesowa](/code/algorytmyNumeryczne/euklides.md)

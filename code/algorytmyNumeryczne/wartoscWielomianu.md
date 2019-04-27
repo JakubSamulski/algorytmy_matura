@@ -15,7 +15,7 @@ int horner(int wsp[], int stopień, int x)
 }
 ```
 
-Jak możecie zauważyć w bardzo podobny sposób zamienialiśmy z systemu dwójkowego czy szesnastkowego na system dziesiętny
+Jak możecie zauważyć w bardzo podobny sposób zamienialiśmy liczby z systemu dwójkowego czy szesnastkowego na system dziesiętny.
 
 ### Przydatny link
 

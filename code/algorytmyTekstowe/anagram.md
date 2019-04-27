@@ -2,7 +2,7 @@
 Anagramami nazywamy parę wyrazów które złożone są z tych samych liter.
 Anagramami są np pasterka – skarpeta , ekran - nerka.  
 
-Aby sprawdzić czy dwa wyrazy spełniają ten warunek możemy najpierw je posortować , a następnie sprawdzać czy kolejne litery tych wyrazów są takie same (Podobnie jak z palindromami)
+Aby sprawdzić czy dwa wyrazy spełniają ten warunek możemy najpierw je posortować , a następnie sprawdzać czy kolejne litery tych wyrazów są takie same (Podobnie jak z palindromami).
 
 ``` c++
 bool anagram(string a, string b)

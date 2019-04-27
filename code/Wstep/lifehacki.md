@@ -1,26 +1,26 @@
 # Maturalne lifehacki
 Jak wiadomo na maturze zawsze mało czasu a stres nie pomaga.
-Dlatego poniżej znajdziesz wskazówki które może akurat Ci pomogą przy pisaniu
-programów na maturze
+Dlatego poniżej znajdziesz wskazówki które może akurat Tobie pomogą przy pisaniu
+programów na maturze.
 
 ## biblioteki
 Na maturze możesz używać wszystkich ogólnodostepnych bibliotek
 czyli np:
-  - fstream do otwierania plików
-  - cmath / math.h do pierwiastków , potęgowania
-  - algorithms do sortowania , odwracania stringów czy swapa.
-dzięki temu nie muszisz sam pisać implementacji bubble sorta , a jeszcze
+  - fstream do otwierania plików.
+  - cmath / math.h do pierwiastków , potęgowania.
+  - algorithms do sortowania , odwracania stringów czy swapa.  
+Dzięki temu nie muszisz sam pisać implementacji bubble sorta , a jeszcze
 nie daj boże się pomylisz i stracisz cenny czas
 
 ## Optymalizacja
-Warto pamiętać że na maturze nie jest oceniana optymalizacja programów ani ich złożoność obliczeniowa , program ma działać
-więc nie muszisz myśleć nad najoptymalniejszym algorytmem , nawet sortowanie bąbelkowe przejdzie bez problemów.
+Warto pamiętać że na maturze nie jest oceniana optymalizacja programów ani ich złożoność obliczeniowa , program ma działać ,
+więc nie muszisz myśleć nad najoptymalniejszym algorytmem. Nawet sortowanie bąbelkowe przejdzie bez problemów.
 
 ## Vectory zamiast tablic
 Na maturze czasami nie podają ile jest liczb , ciągoów w pliku tekstowym
 a nie znając ilości elementów ciężko używać tablic.  
-Vectory to takie tablice tylko że nie muszisz deklarować ich rozmiaru więc
-idealnie nadaja się na maturę i ogólnie są wygodniejsze
+Vectory to takie tablice tylko że nie muszisz deklarować ich rozmiaru , więc
+idealnie nadaja się na maturę i ogólnie są wygodniejsze.
 ### jak ich używać?
 Najpierw muszisz dodać
 ``` c++
@@ -42,7 +42,7 @@ aby dodać element na koniec vectora używamy
     cout<<v[i]<<endl;
    }
   ```  
-  
+
 ### Przydatny link
   - [Vectory](http://www.cplusplus.com/reference/vector/vector/)
 
