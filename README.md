@@ -16,11 +16,10 @@
     - [Obliczanie wartości wielomianu](/code/algorytmyNumeryczne/wartoscWielomianu.md)
     - [Obliczanie wartości pierwiastka](/code/algorytmyNumeryczne/pierwiastek.md)
     - [Szukanie miejsca zerowego](/code/algorytmyNumeryczne/miejsceZerowe.md)
-    - Twierdzenie Pitagorasa
-    - warunek trójkąta
-    - odległość euklidesowa
+    - [Twierdzenie Pitagorasa](/code/algorytmyNumeryczne/pitagoras.md)
+    - [Warunek trójkąta](/code/algorytmyNumeryczne/warunekTroj.md)
+    - [odległość euklidesowa](/code/algorytmyNumeryczne/euklides.md)
 + Algorytmy na tekstach
-    - Palindorm
-    - Anagram
-    - Wyszukiwanie wzorca w tekście
-    - szyfr cezara
+    - [Palindorm](/code/algorytmyTekstowe/palindrom.md)
+    - [Anagramy](/code/algorytmyTekstowe/anagram.md)
+    - [Szyfr Cezara](/code/algorytmyTekstowe/cezar.md)

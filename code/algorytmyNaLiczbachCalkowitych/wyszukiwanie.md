@@ -1,4 +1,4 @@
-# Wyszukiwanie danej liczby w zbiorze
+ Wyszukiwanie danej liczby w zbiorze
 Jest to bardzo ciekawy temat , ponieważ można do niego podejść na bardzo wiele sposobów istnieje bardzo wiele algorytmów do wyszukiwania danej liczby w zbiorze . Jednak moim zdaniem do matury wystarczą dwa ( a tak na prawdę jeden)
 
 ## Wyszukiwanie liniowe
