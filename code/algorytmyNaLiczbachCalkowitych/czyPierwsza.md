@@ -6,7 +6,7 @@ Np. :
 ``` c++
    bool czy_pierwsza(int n)
   {
-  // jako że 1 i 2 nie są pierwsze możemy je wykluczyć
+  // jako że 1 nie jest pierwsze możemy je wykluczyć 
     if (n < 2)		
       return false; 
 
